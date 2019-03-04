@@ -17,5 +17,7 @@ public class Kiem_tra_tam_giac {
 
             System.out.println("Do dai 3 canh ban vua nhap vao la: "+a+"    " +b+"      " +c);
             System.out.println((a+b>c)&&(b+c>a)&&(c+a>b)?"Day la 3 canh cua mot tam giac":"Day khong phai la 3 canh cua mot tam giac");
+        kakakak
+            
     }
 }
